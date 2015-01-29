@@ -1,0 +1,13 @@
+{
+	"name":"24h",
+	"description":"email fetcher&parser",
+	"dependencies":{
+		"mailx":"*",
+		"imap":"*",
+		"mailin":"*",
+		"underscore":"*",
+		"nodemailer":"*",
+		"nodemailer-smtp-transport":"*",
+		"smtp-connection":"*"
+	}
+}
